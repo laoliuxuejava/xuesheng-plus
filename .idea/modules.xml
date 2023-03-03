@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xuesheng-plus.iml" filepath="$PROJECT_DIR$/xuesheng-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuesheng-plus-base/xuesheng-plus-base.iml" filepath="$PROJECT_DIR$/xuesheng-plus-base/xuesheng-plus-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuesheng-plus-parent/xuesheng-plus-parent.iml" filepath="$PROJECT_DIR$/xuesheng-plus-parent/xuesheng-plus-parent.iml" />
+    </modules>
+  </component>
+</project>
